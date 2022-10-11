@@ -1,5 +1,10 @@
 # TASKMASTER-PRO
 
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/96402809/195172982-ac30f928-774a-447d-9b1f-2fbe8d0cb6f9.png)
+
 
 ## DESCRIPTION
 
@@ -28,11 +33,6 @@ Users are also able to edit, delete and drag and drop tasks between boxes to ref
 
 ## Technologies
 HTML, CSS, JavaScript, jQuery
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 Aniyah Butler
